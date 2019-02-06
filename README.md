@@ -4,3 +4,6 @@ These are lambads that the Amazon Connect flow talk to. These lambda functions c
 - show who is calling (with link to their record in SugarCRM)
 - show call record so they can make notes about call (which is attached to incoming caller's record in SugarCRM)
 - record the phone call and put the link in the above call record
+
+
+![flow](https://raw.githubusercontent.com/ipublic/aws_connect_sugar_crm_integration/master/flow.png)
