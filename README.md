@@ -6,4 +6,4 @@ These are lambads that the Amazon Connect flow talk to. These lambda functions c
 - record the phone call and put the link in the above call record
 
 
-![flow](https://raw.githubusercontent.com/ipublic/aws_connect_sugar_crm_integration/master/flow.png)
+![flow](https://d33pe1gs12zopv.cloudfront.net/flow.png)
